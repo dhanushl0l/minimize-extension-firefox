@@ -1,8 +1,8 @@
 {
     "manifest_version": 3,
-    "name": "minimize Window State",
+    "name": "minimize Window",
     "version": "1.0",
-    "description": "minimize Window.",
+    "description": "minimize the window with a single click.",
     "permissions": ["activeTab"],
     "action": {
       "default_popup": "popup.html",
